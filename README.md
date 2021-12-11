@@ -1,2 +1,2 @@
 # github-learning
-This is github learing
+This is to github learing
